@@ -46,3 +46,4 @@ that paramer.  Here, I will use my initials "em" as the branch name.
 -   Create a link in markdown to your picture
 -   A relative link in Github Flavored Markdown [name](/pictures/<first>\_<last>.{jpg,png})
 
+Hi, my name is Dave Padilla. I live in New Jersey and enjopy online gaming and anime.
